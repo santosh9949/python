@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/Users/rageersantosh/Desktop/simple-flask-app/"
+    schedule:
+      interval: "daily"
